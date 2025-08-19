@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://news-homepage-solution-sepia.vercel.app/)
-- Live Site URL: [Live site URL here](https://news-homepage-solution-sepia.vercel.app/)
+- Solution URL: [Solution URL here](https://profile-card-component-e.vercel.app/)
+- Live Site URL: [Live site URL here](https://profile-card-component-e.vercel.app/)
 
 ### Built with
 
